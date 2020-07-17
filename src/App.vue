@@ -1,5 +1,8 @@
 <template>
-  <div id="app">主页显示区域</div>
+  <div id="app">
+    主页显示区域
+    不懂就问本次服务
+  </div>
 </template>
 
 <script>
