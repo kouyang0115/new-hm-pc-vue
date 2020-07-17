@@ -1,5 +1,5 @@
 <template>
-  <div id="app"></div>
+  <div id="app">主页显示区域</div>
 </template>
 
 <script>
